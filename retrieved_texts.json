@@ -1,0 +1,9 @@
+[
+    {
+        "image_filename": "e8c5c251-03ee-4299-ba2c-c8c8b89e5231.png",
+        "caption": "Fig. 4. Docking key drive mechanism",
+        "texts": [
+            "Docking two ports together requires that the north (red circles) and south (green circles) permanent magnets are aligned. This is shown in Fig. 3. The pattern orientation keeps two passive docking ports from accidentally docking to each other while on the self-assembly plane. Connecting SMORES modules in a head-to-tail fashion prevents passive ports being docked together if it is desirable that all connections remain actively disconnectable. To aid in the undocking process, SMORES uses docking keys (see Fig. 4). The docking keys on each module have been designed to serve several purposes. Firstly, the keys are used when modules need to undock. Secondly, they can be used to increase the docking strength of connectors in the shear and torsional direction. Lastly, we believe they can aid in the recovery of failed docking attempts though we have yet to experiment with this feature. To undock two modules, the appropriate key is extended to select which connector to undock (see Fig. 5). As the key is extended, it locates inside the opposing docking connector, securing it in the torsion and shear directions relative to the docking key"
+        ]
+    }
+]

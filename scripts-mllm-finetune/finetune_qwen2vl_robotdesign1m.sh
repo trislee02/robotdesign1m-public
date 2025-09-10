@@ -1,0 +1,1 @@
+CUDA_VISIBLE_DEVICES=0,1,2,3 llamafactory-cli train config/qwen2vl_full_sft_robotdesign1m.yaml
